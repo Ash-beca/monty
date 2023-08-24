@@ -65,4 +65,4 @@
 ]
 >> .
 
->> ++++++++++ .	; print newline
+>> ++++++++++ .		; print newline
